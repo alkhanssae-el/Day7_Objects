@@ -1,6 +1,6 @@
-let car = { 
-  specs: {
-    color: "blue"
-  }
+let car = {
+    specs: {
+        color: "blue"
+    }
 }
-console.log(car.specs.color)
+console.log(car.specs)
